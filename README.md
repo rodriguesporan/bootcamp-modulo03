@@ -6,3 +6,11 @@ yarn eslint --fix src --ext .js
 
 Cria uma instância do Docker
 docker run --name mongobarber -p 27030:27017 -d -t mongo
+
+Serviços de envio de e-mail
+Amazon SES
+Mailgun
+Sparkpost
+GMail (tem limite de envios)
+Mandril (só funciona com o Mailchimp)
+Mailtrap (só funciona em área de desenvolvimento)
